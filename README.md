@@ -24,21 +24,32 @@ Ensure Flutter is installed and working:
 
 ```bash
 flutter doctor
+```
 
 ### Clone the repository:
-git clone https://github.com/yourusername/flutter_project.git
+```bash
 
+git clone https://github.com/yourusername/flutter_project.git
+```
 ## Navigate to the project directory:
+```bash
 cd flutter_contact_phone
+```
 
 ## Get all dependencies:
+```bash
 flutter pub get
+```
 
 ## Connect a device or start an emulator:
+```bash
 flutter devices
+```
 
 ## Run the app:
+```bash
 flutter run
+```
 
 ### License
 
